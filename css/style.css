@@ -184,6 +184,10 @@ nav {
   font-weight: bold;
 }
 
+.more {
+	display: none;
+}
+
 .plan-description h3 {
   font-size: 4rem;
   font-weight: 600;
